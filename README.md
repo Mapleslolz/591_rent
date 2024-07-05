@@ -1,4 +1,10 @@
-# 超簡單一鍵推播 591 租屋資訊完全免 Coding－透過 Google Sheet 與 LINE Notify 
+# 實作結果
+
+## Line Notify
+![](https://i.imgur.com/j684ATU.png)
+## Google Sheet
+![](https://i.imgur.com/6GAqKjZ.png)
+
 
 ----
 
